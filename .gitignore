@@ -1,0 +1,6 @@
+# folder
+__pycache__/
+.idea/
+.vscode/
+# file
+*.zip
